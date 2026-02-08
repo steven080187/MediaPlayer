@@ -1,0 +1,25 @@
+# Buildozer files
+.buildozer/
+bin/
+*.pyc
+__pycache__/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+*.apk
+*.aab
+*.log
